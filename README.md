@@ -36,13 +36,13 @@
 
 | ID | Lab Name | Description | Area | Skill/Library | Status |
 |---|---|---|---|---|---|
-|3.1|[git-sistema-de-cadastro](https://github.com/reynancs/git-sistema-de-cadastro)|Prática do Curso de Controle de Versionamento git |Outros|`git` `github`|Concluído|
-|3.2|[docker-conversao-temperatura](https://github.com/reynancs/docker-conversao-temperatura)|Treinamento de DevOps - colocando uma aplicação nodejs com database rodando em um container docker |Outros|`devops` `dockerfile` `web-app` `nodejs` |Concluído|
-|3.3|[docker-alura-books](https://github.com/reynancs/docker-alura-books)|Prática de Curso de Gerenciamento de Containers utilizando docker-compose em uma aplicaçao web e mongodb rodando em um container docker |Outros|`devops` `dockercompose` `webapp` `mongodb` |Concluído|
-|3.4|[kube-news](https://github.com/reynancs/kube-news)|Prática  de um deployment de Kubernets em uma máquina local usando o k3d criando um arquivo manifesto .yaml |Outros|`devops` `kubernetes` `dockerfile` `.yaml` `k3d` |Concluído|
-|3.5|[azure-tailspin-spacegame-web](https://github.com/reynancs/azure-tailspin-spacegame-web)|Prática do Laboratório de realizar deploy de um Azure Pipeline |Game|`azuredevops` `azurepipeline`|Concluído|
-|3.6|[azure-voting-app-redis](https://github.com/reynancs/azure-voting-app-redis)|Prática de um deployment de uma web-app em um ambiente e produção usando o Azure Kubernetes(AKS) através de um arquivo de manifesto .yaml, como desafio, foi criado e feito o deployment do provisionamento de recursos usando o Terraform. |Outros|`azuredevops` `kubernetes` `aks` `iac` `terraform` `.yaml`|Concluído|
-|3.7|[azure-deploy-arm](https://github.com/reynancs/azure-deploy-arm)|Prática da criação e deployment de uma Infraestrutura como Código (IaC) na Cloud Azure, usando o Modelo ARM (Azure Resource Manager) em formato .json. |Outros|`azuredevops` `kubernetes` `aks` `iac` `arm-model` `.json`|Concluído|
+|3.1|[git-sistema-de-cadastro](https://github.com/reynancs/git-sistema-de-cadastro)|Prática do Curso de Controle de Versionamento git |📝 Outros|`controle-de-versionamento` `git` `github`|Concluído|
+|3.2|[docker-conversao-temperatura](https://github.com/reynancs/docker-conversao-temperatura)|Treinamento de DevOps - colocando uma aplicação nodejs com database rodando em um container docker |📝 Outros|`devops` `dockerfile` `web-app` `nodejs` |Concluído|
+|3.3|[docker-alura-books](https://github.com/reynancs/docker-alura-books)|Prática de Curso de Gerenciamento de Containers utilizando docker-compose em uma aplicaçao web e mongodb rodando em um container docker |📝 Outros|`devops` `dockercompose` `webapp` `mongodb` |Concluído|
+|3.4|[kube-news](https://github.com/reynancs/kube-news)|Prática  de um deployment de Kubernets em uma máquina local usando o k3d criando um arquivo manifesto .yaml |📝 Outros|`devops` `kubernetes` `dockerfile` `.yaml` `k3d` |Concluído|
+|3.5|[azure-tailspin-spacegame-web](https://github.com/reynancs/azure-tailspin-spacegame-web)|Prática do Laboratório de realizar deploy de um Azure Pipeline |📝 Outros|`azuredevops` `azurepipeline`|Concluído|
+|3.6|[azure-voting-app-redis](https://github.com/reynancs/azure-voting-app-redis)|Prática de um deployment de uma web-app em um ambiente e produção usando o Azure Kubernetes(AKS) através de um arquivo de manifesto .yaml, como desafio, foi criado e feito o deployment do provisionamento de recursos usando o Terraform. |📝 Outros|`azuredevops` `kubernetes` `aks` `iac` `terraform` `.yaml`|Concluído|
+|3.7|[azure-deploy-arm](https://github.com/reynancs/azure-deploy-arm)|Prática da criação e deployment de uma Infraestrutura como Código (IaC) na Cloud Azure, usando o Modelo ARM (Azure Resource Manager) em formato .json. |📝 Outros|`azuredevops` `kubernetes` `aks` `iac` `arm-model` `.json`|Concluído|
 
 
 
