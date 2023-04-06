@@ -13,6 +13,7 @@
 1. [Machine Learning](https://github.com/reynancs/study-guide/blob/main/README.md#machine-learning)
 2. [Business Intelligent](https://github.com/reynancs/study-guide/blob/main/README.md#business-intelligent)
 3. [DevOps](https://github.com/reynancs/study-guide/blob/main/README.md#devops)
+4. [Data Engineering](https://github.com/reynancs/study-guide/blob/main/README.md#data-engineering)
 
 ****
 ## 1. Machine Learning
@@ -45,6 +46,10 @@
 |3.7|[azure-deploy-arm](https://github.com/reynancs/azure-deploy-arm)|Prática da criação e deployment de uma Infraestrutura como Código (IaC) na Cloud Azure, usando o Modelo ARM (Azure Resource Manager) em formato .json. |📝 Outros|`azuredevops` `kubernetes` `aks` `iac` `arm-model` `.json`|Concluído|
 
 
+## 4. Data Engineering
+| ID | Lab Name | Description | Area | Skill/Library | Status |
+|---|---|---|---|---|---|
+|4.1|[bike-sharing-labs-databricks](https://github.com/reynancs/bike-sharing-labs)|Prática do Curso de Databricks: Conhecendo a ferramenta |📝 Outros|`databricks` `pyspark` `dbutils`|Concluído|
 
 ## 📧 Contato
 Qualquer dúvida ou sugestão, sinta-se a vontade de falar comigo:
