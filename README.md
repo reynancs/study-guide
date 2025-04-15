@@ -18,7 +18,6 @@
 
 | Projeto | Descrição | Categoria | Segmento de Atuação | Tecnologias |
 |--------|-----------|-----------|----------------------|--------------|
-|  [ml-easy-cash](https://github.com/reynancs/ml-easy-cash) | Previsão de inadimplência com modelos de classificação | Classificação | Finanças | `SkLearn`, `MySQL`, `FastAPI`, `PowerBI`  |
 |  [ml-decision-tree](https://github.com/reynancs/ml-decision-tree) | Detecção de fraudes em cartão de crédito usando Decision Tree | Classificação | Finanças | `Pandas`, `Numpy`, `Matplotlib`, `Sklearn`, `DecisionTree`  |
 |  [ml-credit-scoring](https://github.com/reynancs/ml-credit-scoring) | Modelos de Credit Scoring para concessão de crédito | Classificação | Finanças | `Seaborn`, `Sklearn`, `logistic-regression`  |
 |  [ml-churn-predict](https://github.com/reynancs/ml-churn-predict) | Previsão de churn de clientes com KNN e Naive Bayes | Classificação | Varejo | `Pandas`, `Matplotlib`, `Seaborn`, `Sklearn`, `knn`, `bernoulli-naive-bayes`  |
