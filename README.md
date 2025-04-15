@@ -28,7 +28,7 @@
 
 | Projeto | Descrição | Categoria | Segmento de Atuação | Tecnologias |
 |--------|-----------|-----------|----------------------|--------------|
-|  [agente-financeiro-inteligente](agente-financeiro-inteligente) | Agente de planejamento financeiro com LLM e GCP | GenAI / Agente | Finanças Pessoais | `Python`, `LangChain`, `BigQuery`, `Looker`  |
+|  [gen_ai_intensive_course_gemini](genai_intensive_course_gemini) | 5-day Gen AI Intensive Course with Google | GenAI / Agent / RAG /  | All | `Python`, `LangGraph`, `Gemini`, `RAG`  |
 
 ---
 
