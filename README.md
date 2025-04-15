@@ -28,7 +28,7 @@
 
 | Projeto | Descrição | Categoria | Segmento de Atuação | Tecnologias |
 |--------|-----------|-----------|----------------------|--------------|
-|  [gen_ai_intensive_course_gemini](genai_intensive_course_gemini) | 5-day Gen AI Intensive Course with Google | GenAI / Agent / RAG /  | All | `Python`, `LangGraph`, `Gemini`, `RAG`  |
+|  [gen_ai_intensive_course_gemini](https://github.com/reynancs/genai_intensive_course_gemini) | 5-day Gen AI Intensive Course with Google | GenAI / Agent / RAG /  | All | `Python`, `LangGraph`, `Gemini`, `RAG`  |
 
 ---
 
@@ -36,7 +36,7 @@
 
 | Projeto | Descrição | Categoria | Segmento de Atuação | Tecnologias |
 |--------|-----------|-----------|----------------------|--------------|
-|  [mlflow-regression-tracking](mlflow-regression-tracking) | Rastreamento e avaliação de modelos com MLflow | MLOps | Modelagem | `MLflow`, `scikit-learn`, `Python`  |
+|  [mlflow-regression-tracking](https://github.com/reynancs/mlflow-regression-tracking) | Rastreamento e avaliação de modelos com MLflow | MLOps | Modelagem | `MLflow`, `scikit-learn`, `Python`  |
 |  [git-sistema-de-cadastro](https://github.com/reynancs/git-sistema-de-cadastro) | Projeto de prática com versionamento Git | Controle de Versão | Geral | `git`, `github`  |
 |  [docker-conversao-temperatura](https://github.com/reynancs/docker-conversao-temperatura) | Aplicação NodeJS com banco de dados em container Docker | DevOps | Web App | `dockerfile`, `web-app`, `nodejs`  |
 |  [docker-alura-books](https://github.com/reynancs/docker-alura-books) | Aplicação web + MongoDB usando docker-compose | DevOps | Web App | `dockercompose`, `webapp`, `mongodb`  |
