@@ -18,7 +18,7 @@
 
 | Projeto | Descrição | Categoria | Segmento de Atuação | Tecnologias |
 |--------|-----------|-----------|----------------------|--------------|
-| [car-price-prediction](https://github.com/reynancs/car_price_prediction) | Modelo de Regressão -  prever o preço de carros com base em características técnicas e comerciais |  `Pandas`, `Numpy`, `Matplotlib`, `Seaborn`, `Sklearn`,
+| [car-price-prediction](https://github.com/reynancs/car_price_prediction) | Modelo de Regressão -  prever o preço de carros com base em características técnicas e comerciais |  Regressão | Varejo | `Pandas`, `Numpy`, `Matplotlib`, `Seaborn`, `Sklearn`,
 |  [ml-decision-tree](https://github.com/reynancs/ml-decision-tree) | Detecção de fraudes em cartão de crédito usando Decision Tree | Classificação | Finanças | `Pandas`, `Numpy`, `Matplotlib`, `Sklearn`, `DecisionTree`  |
 |  [ml-credit-scoring](https://github.com/reynancs/ml-credit-scoring) | Modelos de Credit Scoring para concessão de crédito | Classificação | Finanças | `Seaborn`, `Sklearn`, `logistic-regression`  |
 |  [ml-churn-predict](https://github.com/reynancs/ml-churn-predict) | Previsão de churn de clientes com KNN e Naive Bayes | Classificação | Varejo | `Pandas`, `Matplotlib`, `Seaborn`, `Sklearn`, `knn`, `bernoulli-naive-bayes`  |
