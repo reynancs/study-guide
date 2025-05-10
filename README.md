@@ -8,9 +8,10 @@
 
 - [🔬 1. Ciência de Dados & Machine Learning](#-ciência-de-dados--machine-learning)
 - [🤖 2. IA Generativa & Agentes](#-ia-generativa--agentes)
-- [🔧 3. DevOps / MLOps](#-devops--mlops)
+- [📊 3. Análise e Visualização de Dados com Python](#-analise-e-visualizacao-de-dados-com-python)
 - [⚙️ 4. Engenharia de Dados & Pipelines](#-engenharia-de-dados--pipelines)
-- [📊 5. Business Intelligence & Visualização](#-business-intelligence--visualização)
+- [💡 5. Business Intelligence](#-business-intelligence)
+- [🔧 6. DevOps / MLOps](#-devops--mlops)
 
 ---
 
@@ -32,7 +33,7 @@
 
 ---
 
-## 🔬 3. Data Analysis
+## 📊 3. Análise e Visualização de Dados com Python
 
 | Projeto | Descrição | Categoria | Segmento de Atuação | Tecnologias |
 |--------|-----------|-----------|----------------------|--------------|
@@ -40,7 +41,24 @@
 
 ---
 
-## 🔧 3. DevOps / MLOps
+## ⚙️ 4. Engenharia de Dados & Pipelines
+
+| Projeto | Descrição | Categoria | Segmento de Atuação | Tecnologias |
+|--------|-----------|-----------|----------------------|--------------|
+|  [gcp-etl-csv-bigquery](gcp-etl-csv-bigquery) | Carregamento de CSV do GCS para BigQuery | Pipeline ETL | Dados em Nuvem | `Python`, `GCP`, `Cloud Functions`, `BigQuery`  |
+
+---
+
+## 📊 5. Business Intelligence
+
+| Projeto | Descrição | Categoria | Segmento de Atuação | Tecnologias |
+|--------|-----------|-----------|----------------------|--------------|
+|  [segmentacao-leads-b2b](segmentacao-leads-b2b) | Segmentação de clientes para conversão de leads | Clusterização / BI | Marketing / Vendas | `Python`, `scikit-learn`, `Pandas`, `Looker Studio`  |
+|  [bi-social-media](https://github.com/reynancs/BI-Social-Media) | Dashboard de métricas KPI de loja virtual | Dashboard | Marketing | `PowerBI`, `dax`, `figma`  |
+
+---
+
+## 🔧 6. DevOps / MLOps
 
 | Projeto | Descrição | Categoria | Segmento de Atuação | Tecnologias |
 |--------|-----------|-----------|----------------------|--------------|
@@ -55,22 +73,7 @@
 
 ---
 
-## ⚙️ 4. Engenharia de Dados & Pipelines
 
-| Projeto | Descrição | Categoria | Segmento de Atuação | Tecnologias |
-|--------|-----------|-----------|----------------------|--------------|
-|  [gcp-etl-csv-bigquery](gcp-etl-csv-bigquery) | Carregamento de CSV do GCS para BigQuery | Pipeline ETL | Dados em Nuvem | `Python`, `GCP`, `Cloud Functions`, `BigQuery`  |
-
----
-
-## 📊 5. Business Intelligence & Visualização
-
-| Projeto | Descrição | Categoria | Segmento de Atuação | Tecnologias |
-|--------|-----------|-----------|----------------------|--------------|
-|  [segmentacao-leads-b2b](segmentacao-leads-b2b) | Segmentação de clientes para conversão de leads | Clusterização / BI | Marketing / Vendas | `Python`, `scikit-learn`, `Pandas`, `Looker Studio`  |
-|  [bi-social-media](https://github.com/reynancs/BI-Social-Media) | Dashboard de métricas KPI de loja virtual | Dashboard | Marketing | `PowerBI`, `dax`, `figma`  |
-
----
 
 ## 📬 Contato
 
