@@ -45,7 +45,7 @@
 
 | Projeto | Descrição | Categoria | Segmento de Atuação | Tecnologias |
 |--------|-----------|-----------|----------------------|--------------|
-|  [gcp-etl-csv-bigquery](gcp-etl-csv-bigquery) | Carregamento de CSV do GCS para BigQuery | Pipeline ETL | Dados em Nuvem | `Python`, `GCP`, `Cloud Functions`, `BigQuery`  |
+|  [bike-sharing-labs](https://github.com/reynancs/bike-sharing-labs | Laboratório desenvolvido em Pyspark em Databricks. | Pipeline PySpark | Processamento Distribuido | `PySpark`, `databricks`|
 
 ---
 
@@ -53,8 +53,7 @@
 
 | Projeto | Descrição | Categoria | Segmento de Atuação | Tecnologias |
 |--------|-----------|-----------|----------------------|--------------|
-|  [segmentacao-leads-b2b](segmentacao-leads-b2b) | Segmentação de clientes para conversão de leads | Clusterização / BI | Marketing / Vendas | `Python`, `scikit-learn`, `Pandas`, `Looker Studio`  |
-|  [bi-social-media](https://github.com/reynancs/BI-Social-Media) | Dashboard de métricas KPI de loja virtual | Dashboard | Marketing | `PowerBI`, `dax`, `figma`  |
+|  [bi-social-media](https://github.com/reynancs/BI-Social-Media) | Dashboard de métricas KPI de loja virtual | Dashboard | Marketing | `powerbi`, `dax`, `figma`  |
 
 ---
 
