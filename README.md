@@ -37,7 +37,7 @@
 
 | Projeto | Descrição | Categoria | Segmento de Atuação | Tecnologias |
 |--------|-----------|-----------|----------------------|--------------|
-|  [analyzing_impact_recession_auto_sales_with_ploty](https://github.com/reynancs/ml-decision-tree) | Criando visualizações para análise de dados e criação de dashboard com plotly | Visualização de Dados | Vendas | `Pandas`, `Matplotlib`, `Seaborn`, `folium`, `plotly`, `dash` |
+|  [data-analysis-with-data-visualization](https://github.com/reynancs/analyzing_impact_recession_auto_sales_with_ploty)) | Criando visualizações para análise de dados e criação de dashboard com plotly | Visualização de Dados | Vendas | `Pandas`, `Matplotlib`, `Seaborn`, `folium`, `plotly`, `dash` |
 
 ---
 
