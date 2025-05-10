@@ -45,7 +45,7 @@
 
 | Projeto | Descrição | Categoria | Segmento de Atuação | Tecnologias |
 |--------|-----------|-----------|----------------------|--------------|
-|  [bike-sharing-labs](https://github.com/reynancs/bike-sharing-labs | Laboratório desenvolvido em Pyspark em Databricks. | Pipeline PySpark | Processamento Distribuido | `PySpark`, `databricks`|
+|  [bike-sharing-labs](https://github.com/reynancs/bike-sharing-labs) | Laboratório desenvolvido em Pyspark em Databricks. | Pipeline PySpark | Processamento Distribuido | `PySpark`, `databricks`|
 
 ---
 
